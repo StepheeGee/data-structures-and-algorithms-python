@@ -5,6 +5,8 @@ Write a function called insertShiftArray which takes in an array and a value to 
 ## Whiteboard Process
 ![whiteboard](InsertArrayWhiteboard.jpg)
 
+[Link to Code](array_insert_shift.py)
+
 ## Example Input & Output
 
 Input: `[2,4,6,-8], 5`
