@@ -6,6 +6,8 @@
 
 * Challenge 02: [Array Insert](python/docs/array_insert_shift/README.md)
 
+* Challenge 03: [Array Binary](python/docs/array_binary_search/README.md)
+
 ### 401 Data Structures, Code Challenges
 
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
