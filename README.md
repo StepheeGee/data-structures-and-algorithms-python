@@ -8,6 +8,8 @@
 
 * Challenge 03: [Array Binary](python/docs/array_binary_search/README.md)
 
+* Challenge 04: [Linked List](python/docs/linked_list/README.md)
+
 ### 401 Data Structures, Code Challenges
 
 - Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
