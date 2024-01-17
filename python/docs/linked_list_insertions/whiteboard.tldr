@@ -66,9 +66,9 @@
     {
       "id": "pointer:pointer",
       "typeName": "pointer",
-      "x": 608.4552437119003,
-      "y": 711.1972077025348,
-      "lastActivityTimestamp": 1705462077216,
+      "x": 1473.7708048592028,
+      "y": -143.86908735606403,
+      "lastActivityTimestamp": 1705463966618,
       "meta": {}
     },
     {
@@ -79,9 +79,9 @@
       "typeName": "page"
     },
     {
-      "x": 148.38710457274792,
-      "y": -30.484764706722753,
-      "z": 0.6091389128647837,
+      "x": 121.18725081594721,
+      "y": 272.34737219014573,
+      "z": 0.3733607594617828,
       "meta": {},
       "id": "camera:page:page",
       "typeName": "camera"
@@ -104,7 +104,7 @@
       "opacityForNextShape": 1,
       "stylesForNextShape": {
         "tldraw:geo": "rectangle",
-        "tldraw:color": "grey",
+        "tldraw:color": "black",
         "tldraw:dash": "dotted",
         "tldraw:arrowheadStart": "none"
       },
@@ -144,8 +144,8 @@
       "typeName": "instance"
     },
     {
-      "x": 136.6151610310523,
-      "y": 372.5517077523201,
+      "x": 1395.4419149676557,
+      "y": 126.34023433227856,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -173,8 +173,8 @@
       "typeName": "shape"
     },
     {
-      "x": 25.397730916306216,
-      "y": 373.2056536751717,
+      "x": 1284.2244848529097,
+      "y": 126.99418025513012,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -202,8 +202,8 @@
       "typeName": "shape"
     },
     {
-      "x": 287.18088826493903,
-      "y": 368.70806456384355,
+      "x": 1546.0076422015425,
+      "y": 122.496591143802,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -231,8 +231,8 @@
       "typeName": "shape"
     },
     {
-      "x": 102.61622151689215,
-      "y": 409.9546313363045,
+      "x": 1361.4429754534956,
+      "y": 163.74315791626293,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -266,8 +266,8 @@
       "typeName": "shape"
     },
     {
-      "x": 30.82219228105231,
-      "y": 350.93102061350874,
+      "x": 1289.6489462176557,
+      "y": 104.71954719346718,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -289,8 +289,8 @@
       "typeName": "shape"
     },
     {
-      "x": 609.3821024674442,
-      "y": 356.2914120278241,
+      "x": 1808.290358668609,
+      "y": 98.96527224750514,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -318,8 +318,8 @@
       "typeName": "shape"
     },
     {
-      "x": 498.16467235269806,
-      "y": 356.94535795067566,
+      "x": 1697.072928553863,
+      "y": 99.6192181703567,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -347,8 +347,8 @@
       "typeName": "shape"
     },
     {
-      "x": 720.1952051896121,
-      "y": 353.75636258934753,
+      "x": 1919.103461390777,
+      "y": 96.43022280902858,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -376,8 +376,8 @@
       "typeName": "shape"
     },
     {
-      "x": 564.4709925431277,
-      "y": 323.8814083657147,
+      "x": 1763.3792487442927,
+      "y": 66.55526858539577,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -411,8 +411,8 @@
       "typeName": "shape"
     },
     {
-      "x": 499.89731004385516,
-      "y": 330.84921707604684,
+      "x": 1698.8055662450201,
+      "y": 73.52307729572789,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -434,8 +434,8 @@
       "typeName": "shape"
     },
     {
-      "x": 690.3044762779756,
-      "y": 400.77157560204284,
+      "x": 1889.2127324791404,
+      "y": 143.4454358217239,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -469,8 +469,8 @@
       "typeName": "shape"
     },
     {
-      "x": 666.1190819908662,
-      "y": 472.60058561180847,
+      "x": 1865.027338192031,
+      "y": 215.27444583148952,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -498,8 +498,8 @@
       "typeName": "shape"
     },
     {
-      "x": 541.8302483727022,
-      "y": 402.56091276024597,
+      "x": 1740.738504573867,
+      "y": 145.23477297992702,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -533,8 +533,8 @@
       "typeName": "shape"
     },
     {
-      "x": 138.00277635960435,
-      "y": 317.42207670983964,
+      "x": 1396.8295302962078,
+      "y": 71.21060328979809,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -556,8 +556,8 @@
       "typeName": "shape"
     },
     {
-      "x": 600.2799869610352,
-      "y": 319.8731457314374,
+      "x": 1799.1882431622003,
+      "y": 62.54700595111842,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -579,8 +579,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1045.5917748601428,
-      "y": 364.9414235817089,
+      "x": 2219.4093951299287,
+      "y": 91.39799001889577,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -608,8 +608,8 @@
       "typeName": "shape"
     },
     {
-      "x": 906.8842095525256,
-      "y": 360.69388024674794,
+      "x": 2080.7018298223115,
+      "y": 87.15044668393483,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -637,8 +637,8 @@
       "typeName": "shape"
     },
     {
-      "x": 973.8540229382525,
-      "y": 397.4557668434276,
+      "x": 2147.6716432080384,
+      "y": 123.91233328061452,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -672,8 +672,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1156.4048775823107,
-      "y": 362.4063741432323,
+      "x": 2330.2224978520967,
+      "y": 88.8629405804192,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -701,8 +701,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1048.7827636865538,
-      "y": 341.43282237993157,
+      "x": 2222.60038395634,
+      "y": 67.88938881711846,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -724,8 +724,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1118.6235236706743,
-      "y": 414.60386865006825,
+      "x": 2292.4411439404603,
+      "y": 141.06043508725514,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -759,8 +759,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1102.328754383565,
-      "y": 481.25059716569325,
+      "x": 2276.146374653351,
+      "y": 207.70716360288014,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -788,8 +788,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1019.0583391633043,
-      "y": 308.9392797218456,
+      "x": 2192.8759594330904,
+      "y": 35.39584615903249,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -811,8 +811,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1103.545155129227,
-      "y": 568.0887160229404,
+      "x": 2277.362775399013,
+      "y": 294.5452824601273,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -834,8 +834,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1144.4797716584214,
-      "y": 481.58580224381825,
+      "x": 2318.2973919282076,
+      "y": 208.04236868100514,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -869,8 +869,8 @@
       "typeName": "shape"
     },
     {
-      "x": 215.38558885960435,
-      "y": 406.5093188363045,
+      "x": 1474.2123427962078,
+      "y": 160.29784541626293,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -909,8 +909,8 @@
       "typeName": "shape"
     },
     {
-      "x": 155.73715135960435,
-      "y": 316.80879545983964,
+      "x": 1414.5639052962078,
+      "y": 70.59732203979809,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -938,8 +938,8 @@
       "typeName": "shape"
     },
     {
-      "x": 596.1082492901368,
-      "y": 320.19044462059753,
+      "x": 1795.0165054913018,
+      "y": 62.86430484027858,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -967,8 +967,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1019.5467272248277,
-      "y": 309.0234548317089,
+      "x": 2193.364347494614,
+      "y": 35.48002126889577,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -996,8 +996,8 @@
       "typeName": "shape"
     },
     {
-      "x": 22.028733901070126,
-      "y": 402.82051420983964,
+      "x": 1280.8554878376735,
+      "y": 156.6090407897981,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1019,8 +1019,8 @@
       "typeName": "shape"
     },
     {
-      "x": 494.6834622026963,
-      "y": 383.2111355385663,
+      "x": 1693.5917184038613,
+      "y": 125.88499575824733,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1042,8 +1042,8 @@
       "typeName": "shape"
     },
     {
-      "x": 903.5114175452059,
-      "y": 392.7061731086864,
+      "x": 2077.329037814992,
+      "y": 119.16273954587331,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1065,8 +1065,8 @@
       "typeName": "shape"
     },
     {
-      "x": 672.8055325151963,
-      "y": 503.48437467430847,
+      "x": 1871.7137887163613,
+      "y": 246.15823489398952,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1088,8 +1088,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1113.984702588559,
-      "y": 508.09080712663075,
+      "x": 2287.802322858345,
+      "y": 234.54737356381764,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1111,8 +1111,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1067.5552287116059,
-      "y": 388.09642236100575,
+      "x": 2241.372848981392,
+      "y": 114.55298879819264,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1134,8 +1134,8 @@
       "typeName": "shape"
     },
     {
-      "x": 845.7044616829259,
-      "y": 153.33801267399417,
+      "x": 2045.1920733419638,
+      "y": -90.22299943753484,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1169,8 +1169,8 @@
       "typeName": "shape"
     },
     {
-      "x": 435.536337536445,
-      "y": 167.07548134767245,
+      "x": 1647.9507361117787,
+      "y": -76.19855037268923,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1201,6 +1201,167 @@
         "text": "",
         "font": "draw"
       },
+      "typeName": "shape"
+    },
+    {
+      "x": -50.357545869237356,
+      "y": -84.18422611396738,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:xlRU5Q-GTL9iPqn04iC0K",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 595.0299072265625,
+        "text": "Step 1: Define the Problem\nProblem Statement:\nExtend a Linked List to allow various insertion\n methods (insert_before, insert_after, append).",
+        "font": "draw",
+        "align": "start",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "ab",
+      "typeName": "shape"
+    },
+    {
+      "x": -47.17323270172005,
+      "y": 135.71528439390806,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:5gC9SuRd8zL6zHm-0xZ9I",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 336.26953125,
+        "text": "Step 2: Identify Test Cases\nSample Test Case:",
+        "font": "draw",
+        "align": "start",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "ac",
+      "typeName": "shape"
+    },
+    {
+      "x": -45.38021307108886,
+      "y": 225.8961304447754,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:_0go8cXOc-d7SZk_sRbgC",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 452.99882794733287,
+        "text": "linked_list = LinkedList()\n\nlinked_list.insert(\"apple\")\nlinked_list.insert(\"banana\")\n\nlinked_list.append(\"cucumber\")\n\nassert str(linked_list) == \"{ banana } -> \n{ apple } -> { cucumber } -> NULL\"",
+        "font": "draw",
+        "align": "start",
+        "autoSize": true,
+        "scale": 0.8706218418369023
+      },
+      "parentId": "page:page",
+      "index": "ad",
+      "typeName": "shape"
+    },
+    {
+      "x": 567.3258498328476,
+      "y": -107.38432329419686,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:H3M4uZMP5-WUkEEX-I0Qu",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 722.5169067382812,
+        "text": "Additional Test Cases:\n\n1. Empty List:\nlinked_list = LinkedList()\nwith pytest.raises(TargetError):\n    linked_list.insert_before(\"radish\", \"zucchinni\")\n\n2. Insert Before First:\nlinked_list = LinkedList()\nlinked_list.insert(\"apple\")\nlinked_list.insert_before(\"apple\", \"grape\")\nassert str(linked_list) == \"{ grape } -> { apple } -> NULL\"\n\n3. Insert After Missing:\nlinked_list = LinkedList()\nlinked_list.insert(\"banana\")\nwith pytest.raises(TargetError):\n    linked_list.insert_after(\"radish\", \"zucchinni\")",
+        "font": "draw",
+        "align": "start",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "ae",
+      "typeName": "shape"
+    },
+    {
+      "x": -36.71355545485051,
+      "y": 588.852535551862,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:E9jEMg6FcJaaLnRo9XkGF",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 949.6353759765625,
+        "text": "Step 4: Plan the Algorithm\nAlgorithm:\n\nInsert Before:\nCreate a new node with the specified value.\nCheck if the linked list is empty. If yes, raise TargetError.\nCheck if the target value is at the beginning. If yes, insert before the head.\nTraverse the list to find the node with the target value.\nIf the target value is not found, raise TargetError.\nInsert the new node before the target value node.",
+        "font": "draw",
+        "align": "start",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "af",
+      "typeName": "shape"
+    },
+    {
+      "x": 1107.6860523187997,
+      "y": 563.4724153564009,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:rZydohOfi47fmocK4pRcA",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 873.2161254882812,
+        "text": "Big O Analysis\nTime Complexity:\n\nappend: O(n) - Traversing the list to find the last node.\ninsert_before: O(n) - Traversing the list to find the target value node.\ninsert_after: O(n) - Traversing the list to find the target value node.\nSpace Complexity:\n\nO(1) - Constant space usage for creating new nodes.",
+        "font": "draw",
+        "align": "start",
+        "autoSize": true,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "ag",
+      "typeName": "shape"
+    },
+    {
+      "x": 1490.646085726876,
+      "y": -96.94147540839663,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:bF0OB-XLerTS8OdFYwwTc",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 610.8086317218515,
+        "text": "Step 3: Diagram",
+        "font": "draw",
+        "align": "middle",
+        "autoSize": false,
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "ah",
       "typeName": "shape"
     }
   ]
