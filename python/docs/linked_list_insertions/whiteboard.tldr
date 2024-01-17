@@ -66,9 +66,9 @@
     {
       "id": "pointer:pointer",
       "typeName": "pointer",
-      "x": 1473.7708048592028,
-      "y": -143.86908735606403,
-      "lastActivityTimestamp": 1705463966618,
+      "x": 1477.918824999542,
+      "y": 752.275458314157,
+      "lastActivityTimestamp": 1705466124399,
       "meta": {}
     },
     {
@@ -79,9 +79,9 @@
       "typeName": "page"
     },
     {
-      "x": 121.18725081594721,
-      "y": 272.34737219014573,
-      "z": 0.3733607594617828,
+      "x": 272.6535262186539,
+      "y": 211.25549586086214,
+      "z": 0.3845245242333772,
       "meta": {},
       "id": "camera:page:page",
       "typeName": "camera"
@@ -104,9 +104,10 @@
       "opacityForNextShape": 1,
       "stylesForNextShape": {
         "tldraw:geo": "rectangle",
-        "tldraw:color": "black",
+        "tldraw:color": "red",
         "tldraw:dash": "dotted",
-        "tldraw:arrowheadStart": "none"
+        "tldraw:arrowheadStart": "none",
+        "tldraw:font": "serif"
       },
       "brush": null,
       "scribbles": [],
@@ -144,8 +145,8 @@
       "typeName": "instance"
     },
     {
-      "x": 1395.4419149676557,
-      "y": 126.34023433227856,
+      "x": 1286.4207870611133,
+      "y": 161.3315952586525,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -153,15 +154,15 @@
       "id": "shape:8lpWvW7VESsGUS9UuDWIY",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 73.22903442382812,
+        "w": 91.84652828491495,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "red",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -173,8 +174,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1284.2244848529097,
-      "y": 126.99418025513012,
+      "x": 1153.788049564507,
+      "y": 162.11146076923893,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -182,15 +183,15 @@
       "id": "shape:B_OCatQdFEbYPoTYzeAol",
       "type": "geo",
       "props": {
-        "w": 77.99609375,
-        "h": 73.22903442382812,
+        "w": 93.01451595699888,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "yellow",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -202,8 +203,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1546.0076422015425,
-      "y": 122.496591143802,
+      "x": 1465.9784746968935,
+      "y": 156.74784505401402,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -211,15 +212,15 @@
       "id": "shape:etc23GfYPwESjvA31595m",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 73.22903442382812,
+        "w": 91.84652828491495,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "green",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -231,8 +232,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1361.4429754534956,
-      "y": 163.74315791626293,
+      "x": 1245.8752321504114,
+      "y": 205.93658334551964,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -255,19 +256,19 @@
         },
         "end": {
           "type": "point",
-          "x": 30.991104125976562,
-          "y": -0.1494903564453125
+          "x": 36.958550238301655,
+          "y": -0.1782752504191913
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1289.6489462176557,
-      "y": 104.71954719346718,
+      "x": 1160.2570100458681,
+      "y": 135.5477687593382,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -279,18 +280,18 @@
         "size": "m",
         "w": 96.37660217285156,
         "text": "current",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.658326996390357
+        "scale": 0.7850901752457827
       },
       "parentId": "page:page",
       "index": "a5",
       "typeName": "shape"
     },
     {
-      "x": 1808.290358668609,
-      "y": 98.96527224750514,
+      "x": 1778.7646508131938,
+      "y": 128.6854879315609,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -298,15 +299,15 @@
       "id": "shape:yYFV3xCNoTBP2gu7tTtYi",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 73.22903442382812,
+        "w": 91.84652828491495,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "red",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -318,8 +319,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1697.072928553863,
-      "y": 99.6192181703567,
+      "x": 1646.1319133165873,
+      "y": 129.46535344214735,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -327,15 +328,15 @@
       "id": "shape:yTFazQidjaFD-qjgq1vOA",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 73.22903442382812,
+        "w": 91.84652828491495,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "yellow",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -347,8 +348,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1919.103461390777,
-      "y": 96.43022280902858,
+      "x": 1910.915206255538,
+      "y": 125.66230580653354,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -356,15 +357,15 @@
       "id": "shape:GGPZlSrsXaVqhJVaYr1gH",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 80.32539367675781,
+        "w": 91.84652828491495,
+        "h": 95.79233077809113,
         "geo": "ellipse",
         "color": "green",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -376,8 +377,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1763.3792487442927,
-      "y": 66.55526858539577,
+      "x": 1725.2057486957162,
+      "y": 90.03482406038898,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -392,27 +393,27 @@
         "fill": "none",
         "color": "violet",
         "labelColor": "black",
-        "bend": -5.842452783301552,
+        "bend": -6.967437617866788,
         "start": {
           "type": "point",
-          "x": 116.842529296875,
-          "y": 154.2799072265625
+          "x": 139.34096931284188,
+          "y": 183.98704605087232
         },
         "end": {
           "type": "point",
-          "x": 99.85279846191406,
-          "y": 107.85893249511719
+          "x": 119.07980604332123,
+          "y": 128.6275493466228
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1698.8055662450201,
-      "y": 73.52307729572789,
+      "x": 1648.1981764898226,
+      "y": 98.34430884753581,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -424,18 +425,18 @@
         "size": "m",
         "w": 96.37660217285156,
         "text": "current",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.5717638348478914
+        "scale": 0.6818589724577593
       },
       "parentId": "page:page",
       "index": "aA",
       "typeName": "shape"
     },
     {
-      "x": 1889.2127324791404,
-      "y": 143.4454358217239,
+      "x": 1875.2689123497262,
+      "y": 181.73046346335275,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -453,24 +454,24 @@
         "bend": 0,
         "start": {
           "type": "point",
-          "x": -0.89630126953125,
-          "y": -2.73443603515625
+          "x": -1.0688872317672038,
+          "y": -3.2609613122507657
         },
         "end": {
           "type": "point",
-          "x": 28.053390502929688,
-          "y": -2.194000244140625
+          "x": 33.455169523572124,
+          "y": -2.616462708663248
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1865.027338192031,
-      "y": 215.27444583148952,
+      "x": 1846.4265353192143,
+      "y": 267.39040201288776,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -478,15 +479,15 @@
       "id": "shape:vBAZYqKFcGxSbBsKEMlQ6",
       "type": "geo",
       "props": {
-        "w": 75.45878601074219,
-        "h": 77.94537353515625,
+        "w": 89.98864068743113,
+        "h": 92.9540293863759,
         "geo": "ellipse",
         "color": "violet",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -498,8 +499,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1740.738504573867,
-      "y": 145.23477297992702,
+      "x": 1698.205449595245,
+      "y": 183.86434378545715,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -517,24 +518,24 @@
         "bend": 0,
         "start": {
           "type": "point",
-          "x": 23.896377563476562,
-          "y": 13.802642822265625
+          "x": 28.497709120111683,
+          "y": 16.460390249228116
         },
         "end": {
           "type": "point",
-          "x": 125.40403747558594,
-          "y": 88.05914306640625
+          "x": 149.5510260069271,
+          "y": 105.01524081659399
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1396.8295302962078,
-      "y": 71.21060328979809,
+      "x": 1288.0755926021895,
+      "y": 95.58655983751308,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -546,18 +547,18 @@
         "size": "m",
         "w": 183.34059537623844,
         "text": "append",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.5902345768986157
+        "scale": 0.7038863208621748
       },
       "parentId": "page:page",
       "index": "aE",
       "typeName": "shape"
     },
     {
-      "x": 1799.1882431622003,
-      "y": 62.54700595111842,
+      "x": 1767.909890948847,
+      "y": 85.25475635660308,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -569,18 +570,18 @@
         "size": "m",
         "w": 257.83867752043915,
         "text": "insert before apple",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.5902345768986157
+        "scale": 0.7038863208621748
       },
       "parentId": "page:page",
       "index": "aF",
       "typeName": "shape"
     },
     {
-      "x": 2219.4093951299287,
-      "y": 91.39799001889577,
+      "x": 2269.046103878366,
+      "y": 119.66109889151235,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -588,15 +589,15 @@
       "id": "shape:FhYh5RO0tUHuyEjTIsdzL",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 73.22903442382812,
+        "w": 91.84652828491495,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "red",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -608,8 +609,8 @@
       "typeName": "shape"
     },
     {
-      "x": 2080.7018298223115,
-      "y": 87.15044668393483,
+      "x": 2103.6299089594786,
+      "y": 114.59567614644357,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -617,15 +618,15 @@
       "id": "shape:6Ja4teixO15xiVp2UakF-",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 73.22903442382812,
+        "w": 91.84652828491495,
+        "h": 87.32954258918616,
         "geo": "ellipse",
         "color": "yellow",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -637,8 +638,8 @@
       "typeName": "shape"
     },
     {
-      "x": 2147.6716432080384,
-      "y": 123.91233328061452,
+      "x": 2183.4949954825324,
+      "y": 158.43619331921855,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -653,27 +654,27 @@
         "fill": "none",
         "color": "yellow",
         "labelColor": "black",
-        "bend": -0.4531126234324573,
+        "bend": -0.5403610529222935,
         "start": {
           "type": "point",
-          "x": 14.595436096191406,
-          "y": 2.441497802734375
+          "x": 17.4058386567411,
+          "y": 2.9116167927501397
         },
         "end": {
           "type": "point",
-          "x": 68.9374894707185,
-          "y": -0.1772003173828125
+          "x": 82.2116455596161,
+          "y": -0.21132086180647836
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 2330.2224978520967,
-      "y": 88.8629405804192,
+      "x": 2401.1966593207108,
+      "y": 116.63791676648498,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -681,15 +682,15 @@
       "id": "shape:QXVTuDBfQT8mCCl4_h6W7",
       "type": "geo",
       "props": {
-        "w": 77.01669311523438,
-        "h": 80.32539367675781,
+        "w": 91.84652828491495,
+        "h": 95.79233077809113,
         "geo": "ellipse",
         "color": "green",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -701,8 +702,8 @@
       "typeName": "shape"
     },
     {
-      "x": 2222.60038395634,
-      "y": 67.88938881711846,
+      "x": 2272.8515288277767,
+      "y": 91.62583383556924,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -714,18 +715,18 @@
         "size": "m",
         "w": 96.37660217285156,
         "text": "current",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.5717638348478914
+        "scale": 0.6818589724577593
       },
       "parentId": "page:page",
       "index": "aK",
       "typeName": "shape"
     },
     {
-      "x": 2292.4411439404603,
-      "y": 141.06043508725514,
+      "x": 2356.140372815453,
+      "y": 178.88622244809426,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -743,24 +744,24 @@
         "bend": 0,
         "start": {
           "type": "point",
-          "x": -0.89630126953125,
-          "y": -2.73443603515625
+          "x": -1.0688872317672038,
+          "y": -3.2609613122507657
         },
         "end": {
           "type": "point",
-          "x": 0.3404998779296875,
-          "y": 71.85324096679688
+          "x": 0.4060643271516029,
+          "y": 85.68883526257638
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 2276.146374653351,
-      "y": 207.70716360288014,
+      "x": 2336.707988384387,
+      "y": 258.36601297283926,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -768,15 +769,15 @@
       "id": "shape:PZTPdLlJ9_YFC45APDLrz",
       "type": "geo",
       "props": {
-        "w": 75.45878601074219,
-        "h": 77.94537353515625,
+        "w": 89.98864068743113,
+        "h": 92.9540293863759,
         "geo": "ellipse",
         "color": "violet",
         "labelColor": "black",
         "fill": "none",
         "dash": "draw",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -788,8 +789,8 @@
       "typeName": "shape"
     },
     {
-      "x": 2192.8759594330904,
-      "y": 35.39584615903249,
+      "x": 2237.4035618053204,
+      "y": 52.87554524089251,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -801,18 +802,18 @@
         "size": "m",
         "w": 257.83867752043915,
         "text": "insert after apple",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.5902345768986157
+        "scale": 0.7038863208621748
       },
       "parentId": "page:page",
       "index": "aO",
       "typeName": "shape"
     },
     {
-      "x": 2277.362775399013,
-      "y": 294.5452824601273,
+      "x": 2338.1586113723815,
+      "y": 361.9251170737825,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -824,18 +825,18 @@
         "size": "m",
         "w": 174.86782836914062,
         "text": "current.next",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.46853591781366627
+        "scale": 0.5587541568888682
       },
       "parentId": "page:page",
       "index": "aP",
       "typeName": "shape"
     },
     {
-      "x": 2318.2973919282076,
-      "y": 208.04236868100514,
+      "x": 2386.9753323039777,
+      "y": 258.765762967859,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -858,19 +859,19 @@
         },
         "end": {
           "type": "point",
-          "x": 28.372406005859375,
-          "y": -53.111968994140625
+          "x": 33.83561258374504,
+          "y": -63.338865448157435
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1474.2123427962078,
-      "y": 160.29784541626293,
+      "x": 1380.3587378472514,
+      "y": 201.82786380457344,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -888,8 +889,8 @@
         "bend": 0,
         "start": {
           "type": "point",
-          "x": 3.546722412109375,
-          "y": 1.512664794921875
+          "x": 4.229656288347043,
+          "y": 1.8039337220635
         },
         "end": {
           "type": "binding",
@@ -904,13 +905,13 @@
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1414.5639052962078,
-      "y": 70.59732203979809,
+      "x": 1309.2247838900532,
+      "y": 94.85518912557595,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -918,15 +919,15 @@
       "id": "shape:NoY-Fr01-J4shuzCGsuyA",
       "type": "geo",
       "props": {
-        "w": 78.46780395507812,
-        "h": 23.3701171875,
+        "w": 93.57705562133071,
+        "h": 27.870115457591776,
         "geo": "rectangle",
         "color": "grey",
         "labelColor": "black",
         "fill": "none",
         "dash": "solid",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -938,8 +939,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1795.0165054913018,
-      "y": 62.86430484027858,
+      "x": 1762.9348705151065,
+      "y": 85.63315226298687,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -947,15 +948,15 @@
       "id": "shape:0oaW54_NHyT7IJaCAx6YV",
       "type": "geo",
       "props": {
-        "w": 163.87339782714844,
-        "h": 20.9185791015625,
+        "w": 195.42779701221798,
+        "h": 24.946525089790516,
         "geo": "rectangle",
         "color": "grey",
         "labelColor": "black",
         "fill": "none",
         "dash": "solid",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -967,8 +968,8 @@
       "typeName": "shape"
     },
     {
-      "x": 2193.364347494614,
-      "y": 35.48002126889577,
+      "x": 2237.9859907060218,
+      "y": 52.97592856425041,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -976,15 +977,15 @@
       "id": "shape:baK5wWrl6txeU1ekpF2jH",
       "type": "geo",
       "props": {
-        "w": 156.29556274414062,
-        "h": 21.19140625,
+        "w": 186.39082312853634,
+        "h": 25.27188606534376,
         "geo": "rectangle",
         "color": "grey",
         "labelColor": "black",
         "fill": "none",
         "dash": "solid",
         "size": "m",
-        "font": "draw",
+        "font": "serif",
         "text": "",
         "align": "middle",
         "verticalAlign": "middle",
@@ -996,8 +997,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1280.8554878376735,
-      "y": 156.6090407897981,
+      "x": 1149.7703403233597,
+      "y": 197.42876687171497,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1009,18 +1010,18 @@
         "size": "m",
         "w": 161.1252570581436,
         "text": "Head",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.46623799967335394
+        "scale": 0.5560137665275887
       },
       "parentId": "page:page",
       "index": "aT",
       "typeName": "shape"
     },
     {
-      "x": 1693.5917184038613,
-      "y": 125.88499575824733,
+      "x": 1641.9803839068597,
+      "y": 160.78869889586548,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1032,18 +1033,18 @@
         "size": "m",
         "w": 161.1252570581436,
         "text": "Head",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.46623799967335394
+        "scale": 0.5560137665275887
       },
       "parentId": "page:page",
       "index": "aU",
       "typeName": "shape"
     },
     {
-      "x": 2077.329037814992,
-      "y": 119.16273954587331,
+      "x": 2099.6076739871733,
+      "y": 152.77204860390265,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1055,18 +1056,18 @@
         "size": "m",
         "w": 161.1252570581436,
         "text": "Head",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.46623799967335394
+        "scale": 0.5560137665275887
       },
       "parentId": "page:page",
       "index": "aV",
       "typeName": "shape"
     },
     {
-      "x": 1871.7137887163613,
-      "y": 246.15823489398952,
+      "x": 1854.4004854119519,
+      "y": 304.220973294754,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1078,18 +1079,18 @@
         "size": "m",
         "w": 228.66730471429875,
         "text": "Do you have a next?",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.278168647005627
+        "scale": 0.33173099845967197
       },
       "parentId": "page:page",
       "index": "aW",
       "typeName": "shape"
     },
     {
-      "x": 2287.802322858345,
-      "y": 234.54737356381764,
+      "x": 2350.608330416675,
+      "y": 290.37439977363107,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1101,18 +1102,18 @@
         "size": "m",
         "w": 177.58917236328122,
         "text": "Apple, Are you my target value?",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.30965679439657207
+        "scale": 0.3692822993919881
       },
       "parentId": "page:page",
       "index": "aX",
       "typeName": "shape"
     },
     {
-      "x": 2241.372848981392,
-      "y": 114.55298879819264,
+      "x": 2295.2386980265537,
+      "y": 147.27467413471098,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1124,18 +1125,18 @@
         "size": "m",
         "w": 53.3229064941406,
         "text": "yes",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 0.5895804061730053
+        "scale": 0.7031061872622676
       },
       "parentId": "page:page",
       "index": "aY",
       "typeName": "shape"
     },
     {
-      "x": 2045.1920733419638,
-      "y": -90.22299943753484,
+      "x": 2061.2826239613696,
+      "y": -96.93165094631,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1158,19 +1159,19 @@
         },
         "end": {
           "type": "point",
-          "x": 4.442626633529812,
-          "y": 573.8723224928519
+          "x": 1.8916218195127343,
+          "y": 545.2998012815514
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
     {
-      "x": 1647.9507361117787,
-      "y": -76.19855037268923,
+      "x": 1587.5510699298372,
+      "y": -80.20674488227779,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1193,13 +1194,13 @@
         },
         "end": {
           "type": "point",
-          "x": 4.442626633529812,
-          "y": 573.8723224928519
+          "x": 9.350389130912948,
+          "y": 549.9212405167431
         },
         "arrowheadStart": "none",
         "arrowheadEnd": "arrow",
         "text": "",
-        "font": "draw"
+        "font": "serif"
       },
       "typeName": "shape"
     },
@@ -1215,9 +1216,9 @@
       "props": {
         "color": "black",
         "size": "m",
-        "w": 595.0299072265625,
+        "w": 535.7265625,
         "text": "Step 1: Define the Problem\nProblem Statement:\nExtend a Linked List to allow various insertion\n methods (insert_before, insert_after, append).",
-        "font": "draw",
+        "font": "serif",
         "align": "start",
         "autoSize": true,
         "scale": 1
@@ -1238,9 +1239,9 @@
       "props": {
         "color": "black",
         "size": "m",
-        "w": 336.26953125,
+        "w": 300.98046875,
         "text": "Step 2: Identify Test Cases\nSample Test Case:",
-        "font": "draw",
+        "font": "serif",
         "align": "start",
         "autoSize": true,
         "scale": 1
@@ -1261,38 +1262,15 @@
       "props": {
         "color": "black",
         "size": "m",
-        "w": 452.99882794733287,
+        "w": 388.2859963809361,
         "text": "linked_list = LinkedList()\n\nlinked_list.insert(\"apple\")\nlinked_list.insert(\"banana\")\n\nlinked_list.append(\"cucumber\")\n\nassert str(linked_list) == \"{ banana } -> \n{ apple } -> { cucumber } -> NULL\"",
-        "font": "draw",
+        "font": "serif",
         "align": "start",
         "autoSize": true,
         "scale": 0.8706218418369023
       },
       "parentId": "page:page",
       "index": "ad",
-      "typeName": "shape"
-    },
-    {
-      "x": 567.3258498328476,
-      "y": -107.38432329419686,
-      "rotation": 0,
-      "isLocked": false,
-      "opacity": 1,
-      "meta": {},
-      "id": "shape:H3M4uZMP5-WUkEEX-I0Qu",
-      "type": "text",
-      "props": {
-        "color": "black",
-        "size": "m",
-        "w": 722.5169067382812,
-        "text": "Additional Test Cases:\n\n1. Empty List:\nlinked_list = LinkedList()\nwith pytest.raises(TargetError):\n    linked_list.insert_before(\"radish\", \"zucchinni\")\n\n2. Insert Before First:\nlinked_list = LinkedList()\nlinked_list.insert(\"apple\")\nlinked_list.insert_before(\"apple\", \"grape\")\nassert str(linked_list) == \"{ grape } -> { apple } -> NULL\"\n\n3. Insert After Missing:\nlinked_list = LinkedList()\nlinked_list.insert(\"banana\")\nwith pytest.raises(TargetError):\n    linked_list.insert_after(\"radish\", \"zucchinni\")",
-        "font": "draw",
-        "align": "start",
-        "autoSize": true,
-        "scale": 1
-      },
-      "parentId": "page:page",
-      "index": "ae",
       "typeName": "shape"
     },
     {
@@ -1307,9 +1285,9 @@
       "props": {
         "color": "black",
         "size": "m",
-        "w": 949.6353759765625,
-        "text": "Step 4: Plan the Algorithm\nAlgorithm:\n\nInsert Before:\nCreate a new node with the specified value.\nCheck if the linked list is empty. If yes, raise TargetError.\nCheck if the target value is at the beginning. If yes, insert before the head.\nTraverse the list to find the node with the target value.\nIf the target value is not found, raise TargetError.\nInsert the new node before the target value node.",
-        "font": "draw",
+        "w": 647.2760009765625,
+        "text": "Step 4: Plan the Algorithm\nAlgorithm:\n\nInsert Before:\nCreate a new node with the specified value.\nCheck if the linked list is empty. If yes, raise TargetError.\nCheck if the target value is at the beginning. \nIf yes, insert before the head.\nTraverse the list to find the node with the target value.\nIf the target value is not found, raise TargetError.\nInsert the new node before the target value node.",
+        "font": "serif",
         "align": "start",
         "autoSize": true,
         "scale": 1
@@ -1319,8 +1297,8 @@
       "typeName": "shape"
     },
     {
-      "x": 1107.6860523187997,
-      "y": 563.4724153564009,
+      "x": 686.6859346251622,
+      "y": 649.5886151916168,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1330,20 +1308,20 @@
       "props": {
         "color": "black",
         "size": "m",
-        "w": 873.2161254882812,
+        "w": 593.2414718912688,
         "text": "Big O Analysis\nTime Complexity:\n\nappend: O(n) - Traversing the list to find the last node.\ninsert_before: O(n) - Traversing the list to find the target value node.\ninsert_after: O(n) - Traversing the list to find the target value node.\nSpace Complexity:\n\nO(1) - Constant space usage for creating new nodes.",
-        "font": "draw",
+        "font": "serif",
         "align": "start",
-        "autoSize": true,
-        "scale": 1
+        "autoSize": false,
+        "scale": 0.7133068465835833
       },
       "parentId": "page:page",
       "index": "ag",
       "typeName": "shape"
     },
     {
-      "x": 1490.646085726876,
-      "y": -96.94147540839663,
+      "x": 1399.9568557857904,
+      "y": -104.94379309796022,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -1355,13 +1333,36 @@
         "size": "m",
         "w": 610.8086317218515,
         "text": "Step 3: Diagram",
-        "font": "draw",
+        "font": "serif",
         "align": "middle",
         "autoSize": false,
-        "scale": 1
+        "scale": 1.192553517553549
       },
       "parentId": "page:page",
       "index": "ah",
+      "typeName": "shape"
+    },
+    {
+      "x": 522.056047998281,
+      "y": -97.40442705151992,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:W2rwWAzJbHy8OmDspHg8n",
+      "type": "text",
+      "props": {
+        "color": "black",
+        "size": "m",
+        "w": 700.3313970940703,
+        "text": "Additional Tests\n1. Empty List:\n   \n   linked_list = LinkedList()\n   with pytest.raises(TargetError):\n       linked_list.insert_before(\"radish\", \"zucchini\")\n\n2. Insert Before \n  \n   linked_list = LinkedList()\n   linked_list.insert(\"apple\")\n   linked_list.insert_before(\"apple\", \"grape\")\n   assert str(linked_list) == \"{ grape } -> { apple } -> NULL\"\n\n3. Insert After\n   \n   linked_list = LinkedList()\n   linked_list.insert(\"banana\")\n   linked_list.insert(\"apple\")\n   linked_list.insert(\"cucumber\")\n   linked_list.insert_after(\"apple\", \"grape\")\n   assert str(linked_list) == \"{ banana } -> { apple } -> { grape } -> { cucumber } -> NULL\"",
+        "font": "serif",
+        "align": "start",
+        "autoSize": false,
+        "scale": 0.9320400586230779
+      },
+      "parentId": "page:page",
+      "index": "ai",
       "typeName": "shape"
     }
   ]
