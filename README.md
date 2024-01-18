@@ -12,6 +12,8 @@
 
 * Challenge 06: [Linked List Insertion](python/docs/linked_list_insertions/README.md)
 
+* Challenge 07: [Linked List kth](python/docs/linked_list_kth/README.md)
+
 
 
 ### 401 Data Structures, Code Challenges

@@ -1,4 +1,6 @@
 #!/bin/python3
+
+def BinarySearch(sorted_array, search_key):
    """
    Performs a binary search on a sorted array to find the index of the search key.
 
@@ -9,8 +11,6 @@
    Returns:
        The index of the first occurrence of the search key in the array, or -1 if not found.
    """
-def BinarySearch(sorted_array, search_key):
-
 
    low = 0
    high = len(sorted_array) - 1
