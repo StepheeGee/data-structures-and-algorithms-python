@@ -14,6 +14,8 @@
 
 * Challenge 07: [Linked List kth](python/docs/linked_list_kth/README.md)
 
+* Challenge 08: [Linked List Zip](python/docs/linked_list_zip/README.md)
+
 
 
 ### 401 Data Structures, Code Challenges
