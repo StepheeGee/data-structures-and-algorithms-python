@@ -16,8 +16,6 @@
 
 * Challenge 08: [Linked List Zip](python/docs/linked_list_zip/README.md)
 
+* Challenge 09: [Stack and Queue](python/docs/stack_and_queue/README.md)
 
 
-### 401 Data Structures, Code Challenges
-
-- Please follow the instructions specific to your 401 language, which can be found in the directory below, matching your course.
