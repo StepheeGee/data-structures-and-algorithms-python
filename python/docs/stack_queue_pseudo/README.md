@@ -1,5 +1,9 @@
 # Stack Queue Pseudo
 
+1.22.24
+
+## Description
+
 Implement a Queue using two Stacks.
 
 ## Whiteboard Process
