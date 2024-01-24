@@ -19,3 +19,5 @@
 * Challenge 09: [Stack and Queue](python/docs/stack_and_queue/README.md)
 
 * Challenge 11: [Stack Queue Pseudo](python/docs/stack_queue_pseudo/README.md)
+
+* Challenge 12: [Stack Queue Pseudo 2](python/docs/stack_queue_animal_shelter/README.md)
