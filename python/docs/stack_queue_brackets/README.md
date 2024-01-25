@@ -11,6 +11,8 @@ representing whether or not the brackets in the string are balanced
 
 ![Whiteboard](Bracket.jpg)
 
+[Link to Code](../../code_challenges/stack_queue_brackets.py)
+
 ## Approach & Efficiency:
 
 **Approach:**
