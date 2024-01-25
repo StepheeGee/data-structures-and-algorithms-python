@@ -20,4 +20,6 @@
 
 * Challenge 11: [Stack Queue Pseudo](python/docs/stack_queue_pseudo/README.md)
 
-* Challenge 12: [Stack Queue Pseudo 2](python/docs/stack_queue_animal_shelter/README.md)
+* Challenge 12: [Stack Queue Animal Shelter](python/docs/stack_queue_animal_shelter/README.md)
+
+* Challenge 13: [Stack Queue Brackets](python/docs/stack_queue_brackets/README.md)
