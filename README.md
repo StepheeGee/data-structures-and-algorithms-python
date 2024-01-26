@@ -18,8 +18,12 @@
 
 * Challenge 09: [Stack and Queue](python/docs/stack_and_queue/README.md)
 
+* Challenge 10: Holiday
+
 * Challenge 11: [Stack Queue Pseudo](python/docs/stack_queue_pseudo/README.md)
 
 * Challenge 12: [Stack Queue Animal Shelter](python/docs/stack_queue_animal_shelter/README.md)
 
 * Challenge 13: [Stack Queue Brackets](python/docs/stack_queue_brackets/README.md)
+
+* Challenge 14: [Trees Implementation](python/docs/trees/README.md)
