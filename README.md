@@ -27,3 +27,5 @@
 * Challenge 13: [Stack Queue Brackets](python/docs/stack_queue_brackets/README.md)
 
 * Challenge 14: [Trees Implementation](python/docs/trees/README.md)
+
+* Challenge 16: [Tree Max](python/docs/tree_max/README.md)
