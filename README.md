@@ -29,3 +29,5 @@
 * Challenge 14: [Trees Implementation](python/docs/trees/README.md)
 
 * Challenge 16: [Tree Max](python/docs/tree_max/README.md)
+
+* Challenge 17: [Tree Breadth](python/docs/tree_breadth_first/README.md)
