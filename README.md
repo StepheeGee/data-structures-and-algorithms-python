@@ -33,3 +33,5 @@
 * Challenge 17: [Tree Breadth](python/docs/tree_breadth_first/README.md)
 
 * Challenge 18: [Tree Fizz Buzz](python/docs/tree_fizz_buzz/README.md)
+
+* Challenge 30: [Hashtable](python/docs/hashtable/README.md)
