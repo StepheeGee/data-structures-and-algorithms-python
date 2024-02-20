@@ -38,4 +38,6 @@
 
 * Challenge 31: [Hashmap](python/docs/hashtable_repeated_word/README.md)
 
-* Challenge 32: [Hashtable Left Join](python/docs/hashtable_left_join/README.md)
+* Challenge 32: [Tree Intersection](python/docs/tree_intersection/README.md)
+
+ [Hashtable Left Join](python/docs/hashtable_left_join/README.md)
