@@ -1,16 +1,37 @@
 from data_structures.hashtable import Hashtable
 
-def left_join(hash_table1, hash_table2):
+def left_join(synonyms, antonyms):
     result = []
 
-    for key in hash_table1.keys():
-        value1 = hash_table1.get(key)
-        value2 = hash_table2.get(key, "NONE")
-        result.append([key, value1, value2])
+    for key in synonyms:
+        row = [key, synonyms[key]]
 
-    # Sort the result before returning
-    result.sort()
+        if key in antonyms:
+            row.append(antonyms[key])
+        else:
+            row.append("None")
+
+        result.append(row)
 
     return result
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

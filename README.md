@@ -40,4 +40,4 @@
 
 * Challenge 32: [Tree Intersection](python/docs/tree_intersection/README.md)
 
- [Hashtable Left Join](python/docs/hashtable_left_join/README.md)
+* Challenge 33: [Hashtable Left Join](python/docs/hashtable_left_join/README.md)
