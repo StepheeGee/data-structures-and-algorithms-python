@@ -42,4 +42,4 @@
 
 * Challenge 33: [Hashtable Left Join](python/docs/hashtable_left_join/README.md)
 
-* Challenge 36: [Graph Breadth First](python/docs/graph_breadth_first/README.md)
+* Challenge 36: [Same Tree](python/docs/same_tree_docs/README.md)
